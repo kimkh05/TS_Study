@@ -1,2 +1,2 @@
-# ts_Study
-typescript 공부하는 폴더입니다.
+# TS_Study
+TypeScript 공부하는 폴더입니다.
